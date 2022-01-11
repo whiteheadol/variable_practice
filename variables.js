@@ -1,5 +1,8 @@
+//Variable name declared
 var name = "Olivia"
+//Variable petName declared
 var petName = "Chama"
+//Variable favoriteColor declared
 var favoriteColor = "green"
 
 //Variable age declared
